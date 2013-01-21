@@ -1,0 +1,1 @@
+This is a fork of the django-forum app (http://code.google.com/p/django-forum/) written by Ross Poulton, compatible with Django 1.4.3
